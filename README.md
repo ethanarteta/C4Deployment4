@@ -31,7 +31,7 @@ The EC2 instance will host several applications, and because of the manual infra
 - Launch an EC2 instance with an upgraded `t2.Medium` instance type.
 - Use existing keys.
 - In the network settings, select the previously created VPC.
-- Choose the earlier created `public1` subnet.
+- Choose the earlier created "public1" subnet.
 - Ensure "Auto-assign public IP" is enabled, making the EC2 visible.
 - Configure the instance's security group with the following inbound rules:
   - Port 22 (SSH)
