@@ -180,11 +180,11 @@ While configuring alerts, monitor three resources. Due to our instance's higher 
 In conclusion, the T.2 Medium server handled everything smoothly with 40% resource usage. If this process was done on a T.2 Micro instance it might not be able to handle everything smoothly and quickly as it might experience a resource bottleneck. Everytime a another build was scheduled the CPU saw an increase in resource consumption from a 3% idle usage to 40% when executing the build. An email alert was made on DataDog to notify if higher than average usage is encountered.
 
 # Diagram and Images
-![image](DocumentationImgDeploy3/Deployment_3_diagram.png)
-![image](DocumentationImgDeploy3/Deployment_3_Jenkins.png)
-![image](DocumentationImgDeploy3/Deployment_3_ElasticBeanstalk.png)
-![image](DocumentationImgDeploy3/Deployment_3_Instances.png)
-![image](DocumentationImgDeploy3/Deployment_3_URL_Shortener.png)
+![image](DocumentationDep4Img/DataDog-EC2.png)
+![image](DocumentationDep4Img/DataDog-Jenkins.png)
+![image](DocumentationDep4Img/Dep4-Diagram.png)
+![image](DocumentationDep4Img/Jenkins.png)
+![image](DocumentationDep4Img/URL-Shortener.png)
 
 
 
