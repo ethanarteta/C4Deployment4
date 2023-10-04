@@ -177,7 +177,7 @@ While configuring alerts, monitor three resources. Due to our instance's higher 
 
 ## Conclusion
 
-In conclusion, the T.2 Medium server handled everything smoothly with 40% resource usage. If this process was done on a T.2 Micro instance it might not be able to handle everything smoothly and quickly as it might experience a resource bottleneck. Everytime a another build was scheduled the CPU saw an increase in resource consumption from a 3% idle usage to 40% when executing the build. An email alert was made on DataDog to notify if higher than average usage is encountered.
+In conclusion, the T.2 Medium server handled everything smoothly with 40% resource usage. If this process was done on a T.2 Micro instance it might not be able to handle everything smoothly and quickly as it might experience a resource bottleneck. Everytime another build was scheduled the CPU saw an increase in resource consumption from a 3% idle usage to 40% when executing the build. An email alert was made on DataDog to notify if higher than average usage is encountered.
 
 # Diagram and Images
 ![image](DocumentationDep4Img/DataDog-EC2.png)
