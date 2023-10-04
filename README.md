@@ -184,7 +184,7 @@ In conclusion, the T.2 Medium server handled everything smoothly with 40% resour
 ![image](DocumentationDep4Img/DataDog-Jenkins.png)
 ![image](DocumentationDep4Img/Dep4-Diagram.png)
 ![image](DocumentationDep4Img/Jenkins.png)
-![image](DocumentationDep4Img/URL-Shortener.png)
+![image](DocumentationDep4Img/URL-Shortener.png).
 
 
 
